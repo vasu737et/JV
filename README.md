@@ -1,1 +1,1 @@
-# JV
+This is a classic Snake game implemented in C++. The objective of the game is to control the snake to eat food, which makes the snake grow longer. The player loses if the snake collides with itself or the walls.
